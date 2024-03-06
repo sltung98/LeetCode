@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d654b0d-41a3-453e-93f5-9b2fc9a1fbd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/adamtungleetcode/trees/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/adamtungleetcode/trees/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adamtungleetcode/trees/MaximumDepthOfBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ContainsDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/GroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ProductOfArrayExceptSelf.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ProductOfArrayExceptSelf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/StringEncodeAndDecode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/StringEncodeAndDecode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/TopKfrequentElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/TopKfrequentElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ValidAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ValidAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/binarysearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/binarysearch/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/linkedlist/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/linkedlist/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/linkedlist/MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/linkedlist/MergeTwoSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/linkedlist/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/linkedlist/ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/slidingwindow/BestTimeToBuyAndSellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/slidingwindow/BestTimeToBuyAndSellStock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/slidingwindow/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/slidingwindow/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/ContainerWithMostWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/TwoSumInputArrayIsSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/TwoSumInputArrayIsSorted.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/ValidPalidrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/twopointers/ValidPalidrome.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
