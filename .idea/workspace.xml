@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d654b0d-41a3-453e-93f5-9b2fc9a1fbd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adamtungleetcode/trees/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adamtungleetcode/trees/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/arrayandhashing/ContainsDuplicate.class" afterDir="false" />
