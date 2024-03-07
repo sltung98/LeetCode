@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d654b0d-41a3-453e-93f5-9b2fc9a1fbd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adamtungleetcode/arrayandhashing/ValidSudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +63,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ContainerWithMostWater">
-    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.adamtungleetcode.slidingwindow.BestTimeToBuyAndSellStock" />
-      <module name="LeetCode.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.adamtungleetcode.slidingwindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.adamtungleetcode.twopointers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ValidSudoku">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.adamtungleetcode.binarysearch.BinarySearch" />
       <module name="LeetCode.main" />
@@ -128,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.adamtungleetcode.arrayandhashing.ValidSudoku" />
+      <module name="LeetCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.adamtungleetcode.arrayandhashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidSudoku" />
         <item itemvalue="Application.ContainerWithMostWater" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.StringEncodeAndDecode" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
-        <item itemvalue="Application.BestTimeToBuyAndSellStock" />
       </list>
     </recent_temporary>
   </component>
