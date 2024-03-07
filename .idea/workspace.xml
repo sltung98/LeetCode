@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d654b0d-41a3-453e-93f5-9b2fc9a1fbd9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/binarysearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/adamtungleetcode/binarysearch/BinarySearch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
